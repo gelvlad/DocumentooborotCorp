@@ -192,6 +192,7 @@
 			<Catalog>Организации</Catalog>
 			<Catalog>Подразделения</Catalog>
 			<Catalog>Пользователи</Catalog>
+			<Catalog>Контрагенты</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
