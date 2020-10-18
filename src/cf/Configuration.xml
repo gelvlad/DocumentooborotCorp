@@ -188,6 +188,9 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<SessionParameter>ТекущийПользователь</SessionParameter>
+			<Role>Администратор</Role>
+			<Role>Пользователь</Role>
 			<Catalog>Валюты</Catalog>
 			<Catalog>Организации</Catalog>
 			<Catalog>Подразделения</Catalog>
