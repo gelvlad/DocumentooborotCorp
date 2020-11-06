@@ -199,6 +199,7 @@
 			<Catalog>ФизическиеЛица</Catalog>
 			<Catalog>КонтактныеЛицаКонтрагентов</Catalog>
 			<Catalog>Файлы</Catalog>
+			<Enum>Роли</Enum>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
