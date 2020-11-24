@@ -116,6 +116,66 @@
 					<Comment/>
 				</Properties>
 			</EnumValue>
+			<EnumValue uuid="8b340600-40d9-4963-bd53-4f2d56c4b45d">
+				<Properties>
+					<Name>ПолныеПрава</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>ПолныеПрава</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="8d7d0def-ec0d-4c9d-92f2-cf718efc9177">
+				<Properties>
+					<Name>ЧтениеДокументов</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>ЧтениеДокументов</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="283aa970-c8f2-47c3-893f-c597bc3f6409">
+				<Properties>
+					<Name>ЧтениеКонтрагентов</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>ЧтениеКонтрагентов</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="eacba0db-c709-4518-8c59-3028ef3770de">
+				<Properties>
+					<Name>ИзменениеДокументов</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>ИзменениеДокументов</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="326c7b44-dd51-4a73-8156-7d3abaca776e">
+				<Properties>
+					<Name>ИзменениеКонтрагентов</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>ИзменениеКонтрагентов</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
 		</ChildObjects>
 	</Enum>
 </MetaDataObject>
