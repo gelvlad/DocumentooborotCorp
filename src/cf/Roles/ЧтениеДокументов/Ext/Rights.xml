@@ -55,6 +55,25 @@
 		<right>
 			<name>Read</name>
 			<value>true</value>
+			<restrictionByCondition>
+				<field>Code</field>
+				<field>DataVersion</field>
+				<field>DeletionMark</field>
+				<field>Description</field>
+				<field>Predefined</field>
+				<field>PredefinedDataName</field>
+				<field>Ref</field>
+				<field>Автор</field>
+				<field>Вид</field>
+				<field>Комментарий</field>
+				<field>КонтактноеЛицоКонтрагента</field>
+				<field>Контрагент</field>
+				<field>Организация</field>
+				<field>Предметы</field>
+				<field>Предметы.LineNumber</field>
+				<field>Предметы.Предмет</field>
+				<condition>ГДЕ Вид.РабочаяГруппа.Пользователь = &amp;ТекущийПользователь</condition>
+			</restrictionByCondition>
 		</right>
 		<right>
 			<name>View</name>
