@@ -40,6 +40,13 @@
 			<ContextMenu name="ПредпросмотрФайлаКонтекстноеМеню" id="16"/>
 			<ExtendedTooltip name="ПредпросмотрФайлаРасширеннаяПодсказка" id="17"/>
 		</PictureField>
+		<InputField name="Содержание" id="18">
+			<DataPath>Объект.Содержание</DataPath>
+			<Enabled>false</Enabled>
+			<ReadOnly>true</ReadOnly>
+			<ContextMenu name="СодержаниеКонтекстноеМеню" id="19"/>
+			<ExtendedTooltip name="СодержаниеРасширеннаяПодсказка" id="20"/>
+		</InputField>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="Объект" id="1">

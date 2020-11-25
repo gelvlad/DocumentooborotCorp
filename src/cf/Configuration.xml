@@ -196,6 +196,8 @@
 			<Role>ЧтениеКонтрагентов</Role>
 			<Role>ИзменениеДокументов</Role>
 			<Role>ИзменениеКонтрагентов</Role>
+			<CommonModule>ПолнотекстныйПоиск</CommonModule>
+			<ScheduledJob>ИзвлечьСодержаниеФайла</ScheduledJob>
 			<Catalog>Валюты</Catalog>
 			<Catalog>Организации</Catalog>
 			<Catalog>Подразделения</Catalog>
