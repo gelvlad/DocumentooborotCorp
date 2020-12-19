@@ -209,6 +209,7 @@
 			<Catalog>ВнутренниеДокументы</Catalog>
 			<Catalog>ВидыДокументов</Catalog>
 			<Enum>Роли</Enum>
+			<DataProcessor>ТестированиеЗаданий</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
