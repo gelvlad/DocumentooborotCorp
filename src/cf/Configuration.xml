@@ -209,6 +209,7 @@
 			<Catalog>Файлы</Catalog>
 			<Catalog>ВнутренниеДокументы</Catalog>
 			<Catalog>ВидыДокументов</Catalog>
+			<Catalog>Проекты</Catalog>
 			<Enum>Роли</Enum>
 			<Enum>ДокументСогласован</Enum>
 			<DataProcessor>ТестированиеЗаданий</DataProcessor>

@@ -40,10 +40,10 @@
 				<Event name="OnChange">ВидПриИзменении</Event>
 			</Events>
 		</InputField>
-		<InputField name="Согласован" id="44">
-			<DataPath>Объект.Согласован</DataPath>
-			<ContextMenu name="СогласованКонтекстноеМеню" id="45"/>
-			<ExtendedTooltip name="СогласованРасширеннаяПодсказка" id="46"/>
+		<InputField name="Проект" id="47">
+			<DataPath>Объект.Проект</DataPath>
+			<ContextMenu name="ПроектКонтекстноеМеню" id="48"/>
+			<ExtendedTooltip name="ПроектРасширеннаяПодсказка" id="49"/>
 		</InputField>
 		<InputField name="Контрагент" id="16">
 			<DataPath>Объект.Контрагент</DataPath>
@@ -58,6 +58,11 @@
 			<AutoMarkIncomplete>false</AutoMarkIncomplete>
 			<ContextMenu name="КонтактноеЛицоКонтрагентаКонтекстноеМеню" id="20"/>
 			<ExtendedTooltip name="КонтактноеЛицоКонтрагентаРасширеннаяПодсказка" id="21"/>
+		</InputField>
+		<InputField name="Согласован" id="44">
+			<DataPath>Объект.Согласован</DataPath>
+			<ContextMenu name="СогласованКонтекстноеМеню" id="45"/>
+			<ExtendedTooltip name="СогласованРасширеннаяПодсказка" id="46"/>
 		</InputField>
 		<InputField name="Комментарий" id="22">
 			<DataPath>Объект.Комментарий</DataPath>
