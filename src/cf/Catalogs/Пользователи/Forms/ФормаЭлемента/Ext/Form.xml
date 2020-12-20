@@ -16,6 +16,22 @@
 			<ContextMenu name="НаименованиеКонтекстноеМеню" id="5"/>
 			<ExtendedTooltip name="НаименованиеРасширеннаяПодсказка" id="6"/>
 		</InputField>
+		<InputField name="ФизическоеЛицо" id="32">
+			<DataPath>Объект.ФизическоеЛицо</DataPath>
+			<ContextMenu name="ФизическоеЛицоКонтекстноеМеню" id="33"/>
+			<ExtendedTooltip name="ФизическоеЛицоРасширеннаяПодсказка" id="34"/>
+		</InputField>
+		<InputField name="Владелец" id="29">
+			<DataPath>Объект.Owner</DataPath>
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Подразделение</v8:content>
+				</v8:item>
+			</Title>
+			<ContextMenu name="ВладелецКонтекстноеМеню" id="30"/>
+			<ExtendedTooltip name="ВладелецРасширеннаяПодсказка" id="31"/>
+		</InputField>
 		<Table name="Роли" id="10">
 			<Representation>List</Representation>
 			<AutoInsertNewRow>true</AutoInsertNewRow>
