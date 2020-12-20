@@ -40,6 +40,11 @@
 				<Event name="OnChange">ВидПриИзменении</Event>
 			</Events>
 		</InputField>
+		<InputField name="Согласован" id="44">
+			<DataPath>Объект.Согласован</DataPath>
+			<ContextMenu name="СогласованКонтекстноеМеню" id="45"/>
+			<ExtendedTooltip name="СогласованРасширеннаяПодсказка" id="46"/>
+		</InputField>
 		<InputField name="Контрагент" id="16">
 			<DataPath>Объект.Контрагент</DataPath>
 			<EditMode>EnterOnInput</EditMode>

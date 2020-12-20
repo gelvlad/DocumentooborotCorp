@@ -893,6 +893,13 @@
 		</right>
 	</object>
 	<object>
+		<name>Catalog.ВнутренниеДокументы.Attribute.Согласован</name>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
+		</right>
+	</object>
+	<object>
 		<name>Catalog.ВнутренниеДокументы.StandardAttribute.PredefinedDataName</name>
 		<right>
 			<name>View</name>

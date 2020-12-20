@@ -196,6 +196,7 @@
 			<Role>ЧтениеКонтрагентов</Role>
 			<Role>ИзменениеДокументов</Role>
 			<Role>ИзменениеКонтрагентов</Role>
+			<Role>СогласованиеДокументов</Role>
 			<CommonModule>ПолнотекстныйПоиск</CommonModule>
 			<ScheduledJob>ИзвлечьСодержаниеФайла</ScheduledJob>
 			<Catalog>Валюты</Catalog>
@@ -209,6 +210,7 @@
 			<Catalog>ВнутренниеДокументы</Catalog>
 			<Catalog>ВидыДокументов</Catalog>
 			<Enum>Роли</Enum>
+			<Enum>ДокументСогласован</Enum>
 			<DataProcessor>ТестированиеЗаданий</DataProcessor>
 			<InformationRegister>ФИО</InformationRegister>
 		</ChildObjects>

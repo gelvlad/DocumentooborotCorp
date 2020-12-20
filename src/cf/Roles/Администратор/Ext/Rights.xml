@@ -3,4 +3,11 @@
 	<setForNewObjects>true</setForNewObjects>
 	<setForAttributesByDefault>true</setForAttributesByDefault>
 	<independentRightsOfChildObjects>false</independentRightsOfChildObjects>
+	<object>
+		<name>Catalog.ВнутренниеДокументы.Attribute.Согласован</name>
+		<right>
+			<name>Edit</name>
+			<value>false</value>
+		</right>
+	</object>
 </Rights>
