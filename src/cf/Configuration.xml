@@ -188,6 +188,10 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>СправочникиИПВХ</Subsystem>
+			<Subsystem>Документы</Subsystem>
+			<Subsystem>ОтчетыИОбработки</Subsystem>
+			<Subsystem>Регистры</Subsystem>
 			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<Role>Администратор</Role>
 			<Role>Пользователь</Role>
@@ -215,7 +219,7 @@
 			<Enum>Роли</Enum>
 			<Enum>ДокументСогласован</Enum>
 			<Report>ПланФактПроектов</Report>
-			<DataProcessor>ТестированиеЗаданий</DataProcessor>
+			<DataProcessor>ТестированиеРегламентныхЗаданий</DataProcessor>
 			<InformationRegister>ФИО</InformationRegister>
 			<AccumulationRegister>ЗатратыПоПроектам</AccumulationRegister>
 			<ChartOfCharacteristicTypes>СтатьиЗатратПоПроектам</ChartOfCharacteristicTypes>
